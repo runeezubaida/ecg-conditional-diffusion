@@ -45,3 +45,4 @@ Open `ecg_conditional_diffusion.ipynb` in Google Colab with a T4 GPU (Runtime â†
 Team I5: Ayaka (Runee Zubaida Zahid), Amani, Luai, Imran. Original team repository: [Bobbyy18/20261R0136COSE362](https://github.com/Bobbyy18/20261R0136COSE362)
 
 **My role:** I implemented the code for the full pipeline: beat extraction and preprocessing, the conditional 1D U-Net DDPM, the WGAN-GP and unconditional-diffusion baselines, and the five-way evaluation.
+- Assigned the evaluation part, but implemented the full pipeline end to end: preprocessing, conditional 1D U-Net DDPM, WGAN-GP and unconditional-diffusion baselines, and the five-way comparison.
